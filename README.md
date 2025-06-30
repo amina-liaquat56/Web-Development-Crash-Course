@@ -1,6 +1,8 @@
 # Web-Development-Crash-Course
 
-# HTML & CSS 
+# WEEK - 01
+  
+**HTML & CSS**
 
 - What are HTML & CSS
 - Basic structure and syntax
