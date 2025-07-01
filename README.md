@@ -11,27 +11,27 @@
 - Creating and Linking Pages Together
 - Creating Basic Layout
 
-  **Day 02-** **Intoduction To CSS**
+**Day 02-** **Intoduction To CSS**
 
-  - Introduction to CSS
+- Introduction to CSS
     
-   **Properties:** Poperties are what we want to change
-  - Color
+**Properties:** Poperties are what we want to change
+- Color
+- Font-Size
+- Font - Weight
+- Values
+- The Syntax
+    
+**The Style Attributes:**
+- Inline
+- Internal
+- External
+
+ **Some Basic Styles**
   - Font-Size
-  - Font - Weight
-  - Values
-  - The Syntax
-    
-   **The Style Attributes:**
-  - Inline
-  - Internal
-  - External
-    
-    **Some Basic Styles**
-    - Font-Size
-    - Colors: Colors can be set with keywords. rgb . hexagonal , HSL
-    - Text-align
-    - Background Color
+  - Colors: Colors can be set with keywords. rgb . hexagonal , HSL
+  - Text-align
+  - Background Color
       
     
   
