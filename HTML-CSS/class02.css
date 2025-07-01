@@ -1,1 +1,15 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction to CSS</title>
+</head>
+<body>
+    <h1 style="font-size: 40px; color: blueviolet;">Welcome to CSS</h1>
+    <p>CSS stands for Cascading Style Sheets</p>
+    <p style="background-color: aqua; color: brown; text-align: center;">CSS describes how HTML elements are to be displayed on screen, paper, or in other media</p>
+    <p>CSS saves a lot of work. It can control the layout of multiple web pages all at once External stylesheets are stored in CSS files</p>
+    <a href="https://www.w3schools.com/css/css_intro.asp">From Here You learn CSS</a>
+</body>
+</html>
