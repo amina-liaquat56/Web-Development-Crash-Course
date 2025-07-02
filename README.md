@@ -32,6 +32,10 @@
   - Colors: Colors can be set with keywords. rgb . hexagonal , HSL
   - Text-align
   - Background Color
+
+ **Day 03-**
+ 
+ Review the all students assignemnt.
       
     
   
