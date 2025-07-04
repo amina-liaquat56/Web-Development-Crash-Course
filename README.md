@@ -33,9 +33,39 @@
   - Text-align
   - Background Color
 
- **Day 03-**
+**Day 03-**
  
  Review the all students assignemnt.
+
+**Day 04-**
+
+Lists in HTML: Lists are used to all sort of things 
+
+Types of Lists:
+- ordered list 
+- unordered list
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
       
     
   
