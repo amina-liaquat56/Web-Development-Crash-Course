@@ -39,11 +39,15 @@
 
 **Day 04-**
 
-Lists in HTML: Lists are used to all sort of things.
+**Lists in HTML:**
+
+Lists are used to all sort of things.
 
 Types of Lists:
 - ordered list 
 - unordered list
+
+**Image Tag in HTML**
 
 
 
