@@ -51,6 +51,8 @@ Types of Lists:
 
 **Comments In HTML and CSS**
 
+**And Tell about the important tags in HTML**
+
 
 
 
