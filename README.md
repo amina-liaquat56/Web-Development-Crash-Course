@@ -43,7 +43,7 @@
 
 Lists are used to all sort of things.
 
-Types of Lists:
+**Types of Lists:**
 - ordered list 
 - unordered list
 
