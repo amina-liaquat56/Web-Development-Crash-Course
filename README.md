@@ -53,6 +53,14 @@ Lists are used to all sort of things.
 
 **And Tell about the important tags in HTML**
 
+# WEEK - 02 
+
+**Day 01**
+
+- Intoduction to PHP
+- Syntax of PHP
+- Comments in PHP
+
 
 
 
