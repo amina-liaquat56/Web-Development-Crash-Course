@@ -60,6 +60,7 @@ Lists are used to all sort of things.
 - Intoduction to PHP
 - Syntax of PHP
 - Comments in PHP
+- PHP is Whitespace and insensitive
 
 
 
