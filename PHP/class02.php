@@ -4,6 +4,8 @@
 
     // Variables in PHP
 
+// Integer,String, Boolean,float,null
+
 $name = "Amina";
 $age  = "25";
 $Height = "5.4";
