@@ -62,7 +62,7 @@ Lists are used to all sort of things.
 - Comments in PHP
 - PHP is Whitespace and insensitive
 
-  **Day 02**
+**Day 02**
  - XAMPP Install
  - PHP is case sensitive
  - Variables in PHP
