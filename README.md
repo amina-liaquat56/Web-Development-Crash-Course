@@ -63,10 +63,18 @@ Lists are used to all sort of things.
 - PHP is Whitespace and insensitive
 
   **Day 02**
-
-  - XAMPP Install
-  - PHP is case sensitive
-  - Variables in PHP
+ - XAMPP Install
+ - PHP is case sensitive
+ - Variables in PHP
+ 
+  **Day 03**
+ - Logical and Global Variables
+ - Operators in PHP <br>
+    - Arithematic Operators  <br>
+    - Assignment Operators   <br>
+    - Comparision operators   <br>
+    - Logical Operators    <br>
+  
 
 
 
