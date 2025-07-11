@@ -2,7 +2,7 @@
 
 // echo "Hello World";
 
-    // Variables in PHP
+    // Variables & Data Types in PHP
 
 // Integer,String, Boolean,float,null
 
