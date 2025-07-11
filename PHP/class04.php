@@ -86,32 +86,7 @@ for( $i=0; $i<5; $i++ )
 $a += 10; 
 $b += 5; 
 } 
-echo ("At the end of the loop a=$a and b=$b" ); 
-
-#while loop
-$i = 1;
-
-while ($i < 6) {
-  echo $i;
-  echo"<br>";
-  $i++;
-} 
-
-#do while loop
-do {
-  echo $i;
-  echo"<br>";
-  $i++;
-} while ($i < 6);
-
-#foreach loop
-
-$colors = array("red", "green", "blue", "yellow"); 
-
-foreach ($colors as $x) {
-  echo "$x <br>";
-}
-          
+echo ("At the end of the loop a=$a and b=$b" );           
     ?>
 </body>
 </html>
