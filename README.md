@@ -65,7 +65,7 @@ Lists are used to all sort of things.
 **Day 02**
  - XAMPP Install
  - PHP is case sensitive
- - Variables in PHP
+ - Variables & Datatypes in PHP
  
   **Day 03**
  - Logical and Global Variables
