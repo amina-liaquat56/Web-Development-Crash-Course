@@ -74,6 +74,11 @@ Lists are used to all sort of things.
     - Assignment Operators   <br>
     - Comparision operators   <br>
     - Logical Operators    <br>
+
+  **Day 04**
+   - Conditional Statement in PHP
+   - Loops in PHP <br>
+      - For loop
   
 
 
