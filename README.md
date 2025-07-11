@@ -79,9 +79,12 @@ Lists are used to all sort of things.
    - Conditional Statement in PHP
    - Loops in PHP <br>
       - For loop
-      - While loop
-      - Do while loop
-      - For each loop
+
+  **Day 05**
+  - Revise all PHP <br>
+  - While loop <br>
+  - Do while loop <br>
+  - For each loop <br>
   
 
 
