@@ -96,6 +96,17 @@ Lists are used to all sort of things.
   - Dashboard (All dashboard Features)
   - Install Elementor
 
+  **Day 02**
+  - Themes in Wordpress
+  - What does Theme Do?
+  - A wordpress theme usally contain:
+     - Style.css
+     - index.php
+     - functions.php
+     - header.php
+     - footer.php
+     - screenshot.png
+
 
   
   
