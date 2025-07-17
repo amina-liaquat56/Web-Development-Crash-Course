@@ -85,6 +85,19 @@ Lists are used to all sort of things.
   - While loop <br>
   - Do while loop <br>
   - For each loop <br>
+
+  # Week - 03
+
+  **Day 01**
+  - What is Wordpress
+  - Key Feature
+  - Advantages & Diadvantages of Wordpress
+  - Install Local
+  - Dashboard (All dashboard Features)
+  - Install Elementor
+
+
+  
   
 
 
