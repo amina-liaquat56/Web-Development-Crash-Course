@@ -103,9 +103,14 @@ Lists are used to all sort of things.
      - Style.css
      - index.php
      - functions.php
-     - header.php
-     - footer.php
      - screenshot.png
+   
+  **Day 03**
+  - No Class
+    
+  **Day 04**
+  - Header.php
+  - footer.php
 
 
   
